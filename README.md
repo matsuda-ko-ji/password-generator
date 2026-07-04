@@ -34,3 +34,6 @@
 - 各文字種のON/OFFが反映される
 - 入力値のバリデーションが機能する
 - コピー機能が正常に動作する
+
+## 公開URL
+https://matsuda-ko-ji.github.io/password-generator/
